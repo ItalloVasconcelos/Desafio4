@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Spartan, Work San;
+    
+   
+     
+}
+
+.logo {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    bottom: 150px;
+}
+
+.read{
+    width: 100%;
+    height: 100%; 
+}
+
+.pai {
+    position: fixed;
+}
+
+.filho {
+    background-color: #121214;
+    display: flex;
+    flex-direction: column;
+    color: #E1E1E6;
+    padding: 0 15px;
+    position: absolute;
+    height: 100%;
+    right: 50%;
+}
+
+.texto {
+    position:relative;
+    bottom: 270px;
+    left: 10px;
+}
+
+.titulo {
+    color:#04D361 ;
+    font-weight: 700;
+    
+}
+
+.botao {
+   background-color: #04D361;
+}
+
+.pParagrafo {
+ color:#A8A8A8;
+ font-weight: 500;
+}
+
+.sParagrafo {
+    color:#A8A8A8;
+ font-weight: 400;
+}
+
+#formLabel {
+    color: #A8A8A8;
+}
+
+#email {
+    border: 1px solid;
+    width: 798px;
+    height: 40px;
+    
+}
